@@ -1,1 +1,1 @@
-# Mystery Box Auction Audit Report && DAOEscrowFarm Audit Report
+# Mystery Box Auction Audit Report
